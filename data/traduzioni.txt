@@ -1,0 +1,9 @@
+Penalty, Rigore
+Uomo, Man
+House,Casa
+Word, Parola
+Sun,Sole
+World, Mondo
+Hearth, Cuore
+Earth, Terra
+Moon, Luna
